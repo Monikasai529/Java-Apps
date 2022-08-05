@@ -12,9 +12,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	
 	//commented this line....By Gopi...
 
-	// Added another line....
-
-	// Added the second comment by making automate the build job.....
+	// Added new lines...Now
 
 
 }
